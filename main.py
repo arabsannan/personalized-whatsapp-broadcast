@@ -8,6 +8,7 @@ import pandas as pd
 from dotenv import load_dotenv
 import os
 
+
 # load environment variables
 load_dotenv()
 CHROME_PROFILE_PATH = os.environ['CHROME_PROFILE_PATH']   # path//to//AppData/Local/Google/Chrome/User Data/Default
