@@ -8,5 +8,9 @@ Send personalized batch messages to a group of people at a go
 ```bash
 pip install -r requirements.txt
 ```
-3. Create an Excel file with two columns (Column 1: Name and Column 2: Number). Add contact details to the respective columns.
+3. Create an Excel file with two columns (Column 1: Name and Column 2: Number) 
+   
+4. Add contact details to the respective columns
+
+5. Run the main.py file
 
